@@ -1,0 +1,70 @@
+
+body{
+    margin:0;
+    background-color:rgb(210, 210, 210);
+}
+
+
+header{
+  margin: 0;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  background-color:white;
+}
+
+
+p{
+padding: 8px;
+margin: 0 auto
+
+}
+
+
+
+
+
+
+.primer-post{
+margin: 40px auto;
+width: 400px;
+background-color:white ;
+
+}
+
+
+
+
+
+
+.titulito-1{
+
+align-items: center;
+display:flex;
+
+
+}
+
+h2{
+
+font-size: 15px;
+margin-left: 5px 
+
+}
+
+.span{
+margin-right:5px; 
+margin-left: auto;
+font-size: 15px;
+color:rgb(197, 197, 197) 
+}
+
+
+h1{
+
+font-size: 30px;
+
+}
+
+
+
